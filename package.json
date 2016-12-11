@@ -1,0 +1,22 @@
+{
+  "name": "rustling-leaves",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/with-two-dashes/rustling-leaves.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/with-two-dashes/rustling-leaves/issues"
+  },
+  "homepage": "https://github.com/with-two-dashes/rustling-leaves#readme",
+  "devDependencies": {
+    "electron": "^1.4.12"
+  }
+}
