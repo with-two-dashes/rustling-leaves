@@ -18,5 +18,9 @@
   "homepage": "https://github.com/with-two-dashes/rustling-leaves#readme",
   "devDependencies": {
     "electron": "^1.4.12"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
   }
 }
