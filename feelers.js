@@ -9,7 +9,7 @@ function setup(port){
 	console.log("Socket Listening to localhost:" + port);
 
 	app.get('/', function (req, res) {
-		res.sendfile(__dirname + '/index.html');
+		res.sendfile(__dirname + '/beezelbub.html');
 	});
 
 	io.on('connection', function (socket) {
